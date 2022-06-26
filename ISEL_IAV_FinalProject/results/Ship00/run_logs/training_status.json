@@ -1,0 +1,29 @@
+{
+    "MyShip": {
+        "checkpoints": [
+            {
+                "steps": 5106,
+                "file_path": "results\\Ship00\\MyShip\\MyShip-5106.onnx",
+                "reward": null,
+                "creation_time": 1656003407.9438314,
+                "auxillary_file_paths": [
+                    "results\\Ship00\\MyShip\\MyShip-5106.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5106,
+            "file_path": "results\\Ship00\\MyShip.onnx",
+            "reward": null,
+            "creation_time": 1656003407.9438314,
+            "auxillary_file_paths": [
+                "results\\Ship00\\MyShip\\MyShip-5106.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
